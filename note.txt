@@ -1,0 +1,26 @@
+git add. 提交到stage 暂存区
+git commit 提交到本地仓库
+git push 到远程仓库
+
+
+git clone 克隆到本地
+git pull 克隆到工作区域
+
+git init
+git status 查看状态
+之后add . 到暂存区
+git commit -m "first" 提交暂存区东西 
+
+ssh-keygen -t rsa 在.ssh文件中生成密钥
+
+
+git brance 列出所有分支
+git brance -r 远程分支
+git brance dgev 新建dev分支
+git checkout dev切换分支
+git branch -d b
+
+git reset --hard HEAD^ 回退上一版本
+git pull origin main 当遇到分支拉取提交错误时
+
+正常
