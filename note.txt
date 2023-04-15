@@ -22,5 +22,5 @@ git branch -d b
 
 git reset --hard HEAD^ 回退上一版本
 git pull origin main 当遇到分支拉取提交错误时
-
 正常
+错误版本
